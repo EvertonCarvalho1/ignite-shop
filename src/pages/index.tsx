@@ -11,6 +11,14 @@ export default function Home() {
       <Product>
         <Image src={camiseta1} width={520} height={480} alt="" />
 
+        <footer>
+          <strong>Camiseta X</strong>
+          <span>R$ 79,98</span>
+        </footer>
+      </Product>
+
+      <Product>
+        <Image src={camiseta2} width={520} height={480} alt="" />
 
         <footer>
           <strong>Camiseta X</strong>
@@ -19,8 +27,7 @@ export default function Home() {
       </Product>
 
       <Product>
-        <Image src={camiseta1} width={520} height={480} alt="" />
-
+        <Image src={camiseta3} width={520} height={480} alt="" />
 
         <footer>
           <strong>Camiseta X</strong>
