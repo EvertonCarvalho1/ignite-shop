@@ -14,6 +14,7 @@ export const Product = styled('a', {
     cursor: 'pointer',
     position: 'relative',
     overflow: 'hidden',
+    color: '$gray100',
 
     display: 'flex',
     justifyContent: 'center',
